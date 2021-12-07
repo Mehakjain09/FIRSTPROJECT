@@ -1,0 +1,4 @@
+return len(list(filter(lambda x: x == max(candles), candles)))
+
+
+return sum([ar.count(i)//2 for i in set(ar)])///socks merchant
